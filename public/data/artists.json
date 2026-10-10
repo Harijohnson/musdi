@@ -1,0 +1,5254 @@
+{
+  "dataGeneratedAt": "2026-10-10T16:09:11.691Z",
+  "category": "singer",
+  "artists": [
+    {
+      "id": "Q2051440",
+      "wikidataId": "Q2051440",
+      "name": "A. P. Komala",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "A. P. Komala",
+        "url": "https://en.wikipedia.org/wiki/A._P._Komala"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2051440",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2051440"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A._P._Komala"
+        }
+      ]
+    },
+    {
+      "id": "Q28911635",
+      "wikidataId": "Q28911635",
+      "name": "A. R. Ameen",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "A. R. Ameen",
+        "url": "https://en.wikipedia.org/wiki/A._R._Ameen"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q28911635",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q28911635"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A._R._Ameen"
+        }
+      ]
+    },
+    {
+      "id": "Q108560",
+      "wikidataId": "Q108560",
+      "name": "A. R. Rahman",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AR_Rahman_At_The_%E2%80%98Marvel_Anthem%E2%80%99_Launch.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "A. R. Rahman",
+        "url": "https://en.wikipedia.org/wiki/A._R._Rahman"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q108560",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG",
+        "appleMusic": "https://music.apple.com/us/artist/3249567"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108560"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A._R._Rahman"
+        }
+      ]
+    },
+    {
+      "id": "Q4648309",
+      "wikidataId": "Q4648309",
+      "name": "A. R. Reihana",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A.-R.-Reihana.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "A. R. Reihana",
+        "url": "https://en.wikipedia.org/wiki/A._R._Reihana"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4648309",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q4648309"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A._R._Reihana"
+        }
+      ]
+    },
+    {
+      "id": "Q113195586",
+      "wikidataId": "Q113195586",
+      "name": "Abhi the Nomad",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abhi_the_Nomad.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Abhi the Nomad",
+        "url": "https://en.wikipedia.org/wiki/Abhi_the_Nomad"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q113195586",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4",
+        "appleMusic": "https://music.apple.com/us/artist/954347897"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q113195586"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abhi_the_Nomad"
+        }
+      ]
+    },
+    {
+      "id": "Q642827",
+      "wikidataId": "Q642827",
+      "name": "Allu Arjun",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Allu_Arjun_at_Pushpa_2_The_Rule_meet.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Allu Arjun",
+        "url": "https://en.wikipedia.org/wiki/Allu_Arjun"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q642827",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q642827"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Allu_Arjun"
+        }
+      ]
+    },
+    {
+      "id": "Q61995875",
+      "wikidataId": "Q61995875",
+      "name": "Amritha Murali",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q61995875",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q61995875"
+        }
+      ]
+    },
+    {
+      "id": "Q3523373",
+      "wikidataId": "Q3523373",
+      "name": "Andrea Jeremiah",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Jeremiah.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Andrea Jeremiah",
+        "url": "https://en.wikipedia.org/wiki/Andrea_Jeremiah"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3523373",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3523373"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Andrea_Jeremiah"
+        }
+      ]
+    },
+    {
+      "id": "Q2048481",
+      "wikidataId": "Q2048481",
+      "name": "Annupamaa",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Annupamaa",
+        "url": "https://en.wikipedia.org/wiki/Annupamaa"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2048481",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2048481"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Annupamaa"
+        }
+      ]
+    },
+    {
+      "id": "Q21004841",
+      "wikidataId": "Q21004841",
+      "name": "Anthony Daasan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Anthony Daasan",
+        "url": "https://en.wikipedia.org/wiki/Anthony_Daasan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q21004841",
+      "birthplace": {
+        "name": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "birthplaceDistrict": "Ariyalur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "manual-override",
+        "confidence": "manual"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q21004841"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Daasan"
+        }
+      ]
+    },
+    {
+      "id": "Q3525389",
+      "wikidataId": "Q3525389",
+      "name": "Anuradha Sriram",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_Anuradha_Sriram.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Anuradha Sriram",
+        "url": "https://en.wikipedia.org/wiki/Anuradha_Sriram"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3525389",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy",
+        "appleMusic": "https://music.apple.com/us/artist/19082296"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3525389"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anuradha_Sriram"
+        }
+      ]
+    },
+    {
+      "id": "Q18049750",
+      "wikidataId": "Q18049750",
+      "name": "Arjun Menon",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arjun_Menon_-_Singer.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Arjun Menon",
+        "url": "https://en.wikipedia.org/wiki/Arjun_Menon"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18049750",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18049750"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arjun_Menon"
+        }
+      ]
+    },
+    {
+      "id": "Q17001162",
+      "wikidataId": "Q17001162",
+      "name": "Aruldev",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aruldev.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Mikkin Aruldev",
+        "url": "https://en.wikipedia.org/wiki/Mikkin_Aruldev"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17001162",
+      "birthplace": {
+        "name": "Madurai",
+        "latitude": 9.919661111,
+        "longitude": 78.119394444
+      },
+      "birthplaceDistrict": "Madurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17001162"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mikkin_Aruldev"
+        }
+      ]
+    },
+    {
+      "id": "Q123411947",
+      "wikidataId": "Q123411947",
+      "name": "Asal Kolaar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Asal Kolaar",
+        "url": "https://en.wikipedia.org/wiki/Asal_Kolaar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q123411947",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q123411947"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Asal_Kolaar"
+        }
+      ]
+    },
+    {
+      "id": "Q108813230",
+      "wikidataId": "Q108813230",
+      "name": "Bettina Johnske von Bechtolsheim",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q108813230",
+      "birthplace": {
+        "name": "Cuddalore",
+        "latitude": 11.75,
+        "longitude": 79.75
+      },
+      "birthplaceDistrict": "Cuddalore",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108813230"
+        }
+      ]
+    },
+    {
+      "id": "Q70163756",
+      "wikidataId": "Q70163756",
+      "name": "Bhavana Balakrishnan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Bhavana Balakrishnan",
+        "url": "https://en.wikipedia.org/wiki/Bhavana_Balakrishnan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q70163756",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q70163756"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhavana_Balakrishnan"
+        }
+      ]
+    },
+    {
+      "id": "Q3536035",
+      "wikidataId": "Q3536035",
+      "name": "Bhavatharini",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Bhavatharini",
+        "url": "https://en.wikipedia.org/wiki/Bhavatharini"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3536035",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3536035"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhavatharini"
+        }
+      ]
+    },
+    {
+      "id": "Q98828622",
+      "wikidataId": "Q98828622",
+      "name": "Bindhu Malini",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bindhumalini.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Bindhumalini",
+        "url": "https://en.wikipedia.org/wiki/Bindhumalini"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q98828622",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q98828622"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bindhumalini"
+        }
+      ]
+    },
+    {
+      "id": "Q37320648",
+      "wikidataId": "Q37320648",
+      "name": "Brodha V",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brodha_V.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Brodha V",
+        "url": "https://en.wikipedia.org/wiki/Brodha_V"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q37320648",
+      "birthplace": {
+        "name": "Kanchipuram",
+        "latitude": 12.830833333,
+        "longitude": 79.707777777
+      },
+      "birthplaceDistrict": "Kancheepuram",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q37320648"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brodha_V"
+        }
+      ]
+    },
+    {
+      "id": "Q5006270",
+      "wikidataId": "Q5006270",
+      "name": "C. Aishvarrya Suresh",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "C. Aishvarrya Suresh",
+        "url": "https://en.wikipedia.org/wiki/C._Aishvarrya_Suresh"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5006270",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5006270"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/C._Aishvarrya_Suresh"
+        }
+      ]
+    },
+    {
+      "id": "Q42417425",
+      "wikidataId": "Q42417425",
+      "name": "Chithra Ramakrishnan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q42417425",
+      "birthplace": {
+        "name": "Tiruchirappalli",
+        "latitude": 10.826944444,
+        "longitude": 78.692777777
+      },
+      "birthplaceDistrict": "Tiruchirappalli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q42417425"
+        }
+      ]
+    },
+    {
+      "id": "Q5203634",
+      "wikidataId": "Q5203634",
+      "name": "D. Imman",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DSC00325_copy-lowres.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "D. Imman",
+        "url": "https://en.wikipedia.org/wiki/D._Imman"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5203634",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0",
+        "appleMusic": "https://music.apple.com/us/artist/305679689"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5203634"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/D._Imman"
+        }
+      ]
+    },
+    {
+      "id": "Q464887",
+      "wikidataId": "Q464887",
+      "name": "D. K. Pattammal",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "D. K. Pattammal",
+        "url": "https://en.wikipedia.org/wiki/D._K._Pattammal"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q464887",
+      "birthplace": {
+        "name": "Kanchipuram",
+        "latitude": 12.830833333,
+        "longitude": 79.707777777
+      },
+      "birthplaceDistrict": "Kancheepuram",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q464887"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/D._K._Pattammal"
+        }
+      ]
+    },
+    {
+      "id": "Q17517044",
+      "wikidataId": "Q17517044",
+      "name": "Deepan Chakravarthy",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Deepan Chakravarthy",
+        "url": "https://en.wikipedia.org/wiki/Deepan_Chakravarthy"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17517044",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17517044"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Deepan_Chakravarthy"
+        }
+      ]
+    },
+    {
+      "id": "Q5269484",
+      "wikidataId": "Q5269484",
+      "name": "Dheena Chandra Dhas",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Dheena Chandra Dhas",
+        "url": "https://en.wikipedia.org/wiki/Dheena_Chandra_Dhas"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5269484",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5269484"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dheena_Chandra_Dhas"
+        }
+      ]
+    },
+    {
+      "id": "Q19571928",
+      "wikidataId": "Q19571928",
+      "name": "Diwakar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diwakar_(singer)_-_Dhivagar_Santhosh.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Diwakar",
+        "url": "https://en.wikipedia.org/wiki/Diwakar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q19571928",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19571928"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diwakar"
+        }
+      ]
+    },
+    {
+      "id": "Q221289",
+      "wikidataId": "Q221289",
+      "name": "Engelbert Humperdinck",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Engelbert_Humperdinck_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Engelbert Humperdinck (singer)",
+        "url": "https://en.wikipedia.org/wiki/Engelbert_Humperdinck_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q221289",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm",
+        "appleMusic": "https://music.apple.com/us/artist/468294459"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q221289"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Engelbert_Humperdinck_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q123474008",
+      "wikidataId": "Q123474008",
+      "name": "Gana Ulaganathan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q123474008",
+      "birthplace": {
+        "name": "Vyasarpadi",
+        "latitude": 13.117083333,
+        "longitude": 80.256944444
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q123474008"
+        }
+      ]
+    },
+    {
+      "id": "Q5528725",
+      "wikidataId": "Q5528725",
+      "name": "Gayatri Nair",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gayatri_Nair_profile.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Gayatri Nair",
+        "url": "https://en.wikipedia.org/wiki/Gayatri_Nair"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5528725",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/41Hs6GiyzahFx5zwDmPFiA",
+        "appleMusic": "https://music.apple.com/us/artist/947818478"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5528725"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gayatri_Nair"
+        }
+      ]
+    },
+    {
+      "id": "Q43057735",
+      "wikidataId": "Q43057735",
+      "name": "Grace Karunas",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Grace Karunas",
+        "url": "https://en.wikipedia.org/wiki/Grace_Karunas"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q43057735",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q43057735"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Grace_Karunas"
+        }
+      ]
+    },
+    {
+      "id": "Q5892320",
+      "wikidataId": "Q5892320",
+      "name": "Haricharan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haricharan_in_2013.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Haricharan",
+        "url": "https://en.wikipedia.org/wiki/Haricharan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5892320",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5892320"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haricharan"
+        }
+      ]
+    },
+    {
+      "id": "Q3533050",
+      "wikidataId": "Q3533050",
+      "name": "Harini",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Singer_harini_pic.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Harini (singer)",
+        "url": "https://en.wikipedia.org/wiki/Harini_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3533050",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3533050"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harini_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q312003",
+      "wikidataId": "Q312003",
+      "name": "Harini Ravi",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hariniravi-200pix.jpg?width=320",
+      "wikipedia": {
+        "language": "ta",
+        "title": "ஹரிணி ரவி",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%B9%E0%AE%B0%E0%AE%BF%E0%AE%A3%E0%AE%BF_%E0%AE%B0%E0%AE%B5%E0%AE%BF"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q312003",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q312003"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%B9%E0%AE%B0%E0%AE%BF%E0%AE%A3%E0%AE%BF_%E0%AE%B0%E0%AE%B5%E0%AE%BF"
+        }
+      ]
+    },
+    {
+      "id": "Q5675183",
+      "wikidataId": "Q5675183",
+      "name": "Harts",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harts%2C_2016_Press_Shot.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Harts (musician)",
+        "url": "https://en.wikipedia.org/wiki/Harts_(musician)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5675183",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/59l7wEof90AF2qIrpuQlLp",
+        "appleMusic": "https://music.apple.com/us/artist/387118590"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5675183"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harts_(musician)"
+        }
+      ]
+    },
+    {
+      "id": "Q2720141",
+      "wikidataId": "Q2720141",
+      "name": "Ilaiyaraaja",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilaiyaraaja_BHung.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Ilaiyaraaja",
+        "url": "https://en.wikipedia.org/wiki/Ilaiyaraaja"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2720141",
+      "birthplace": {
+        "name": "Pannaipuram",
+        "latitude": 9.861944444,
+        "longitude": 77.271944444
+      },
+      "birthplaceDistrict": "Theni",
+      "streaming": {
+        "spotify": null,
+        "appleMusic": "https://music.apple.com/us/artist/20317131"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2720141"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ilaiyaraaja"
+        }
+      ]
+    },
+    {
+      "id": "Q102291867",
+      "wikidataId": "Q102291867",
+      "name": "Isaivani",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Isaivani",
+        "url": "https://en.wikipedia.org/wiki/Isaivani"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q102291867",
+      "birthplace": {
+        "name": "Royapuram",
+        "latitude": 13.104030555,
+        "longitude": 80.293661111
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q102291867"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Isaivani"
+        }
+      ]
+    },
+    {
+      "id": "Q3536023",
+      "wikidataId": "Q3536023",
+      "name": "J. P. Chandrababu",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "J. P. Chandrababu",
+        "url": "https://en.wikipedia.org/wiki/J._P._Chandrababu"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3536023",
+      "birthplace": {
+        "name": "Thoothukudi",
+        "latitude": 8.783333333,
+        "longitude": 78.133333333
+      },
+      "birthplaceDistrict": "Thoothukudi",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3536023"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/J._P._Chandrababu"
+        }
+      ]
+    },
+    {
+      "id": "Q105700710",
+      "wikidataId": "Q105700710",
+      "name": "J. Venkataraman",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q105700710",
+      "birthplace": {
+        "name": "Tiruchirappalli",
+        "latitude": 10.826944444,
+        "longitude": 78.692777777
+      },
+      "birthplaceDistrict": "Tiruchirappalli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q105700710"
+        }
+      ]
+    },
+    {
+      "id": "Q3533136",
+      "wikidataId": "Q3533136",
+      "name": "Jikki",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PGKrishnaveni.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Jikki",
+        "url": "https://en.wikipedia.org/wiki/Jikki"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3533136",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3533136"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jikki"
+        }
+      ]
+    },
+    {
+      "id": "Q16732186",
+      "wikidataId": "Q16732186",
+      "name": "Jim Mayer",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Jim Mayer (musician)",
+        "url": "https://en.wikipedia.org/wiki/Jim_Mayer_(musician)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q16732186",
+      "birthplace": {
+        "name": "Tamil Nadu",
+        "latitude": 11,
+        "longitude": 79
+      },
+      "birthplaceDistrict": "Ariyalur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q16732186"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jim_Mayer_(musician)"
+        }
+      ]
+    },
+    {
+      "id": "Q18637526",
+      "wikidataId": "Q18637526",
+      "name": "Josh Vivian",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Josh Vivian",
+        "url": "https://en.wikipedia.org/wiki/Josh_Vivian"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18637526",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18637526"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Josh_Vivian"
+        }
+      ]
+    },
+    {
+      "id": "Q12977524",
+      "wikidataId": "Q12977524",
+      "name": "K. B. Sundarambal",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/K.B.Sundarambal.jpeg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "K. B. Sundarambal",
+        "url": "https://en.wikipedia.org/wiki/K._B._Sundarambal"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q12977524",
+      "birthplace": {
+        "name": "Kodumudi",
+        "latitude": 11.08,
+        "longitude": 77.88
+      },
+      "birthplaceDistrict": "Erode",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q12977524"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/K._B._Sundarambal"
+        }
+      ]
+    },
+    {
+      "id": "Q6349967",
+      "wikidataId": "Q6349967",
+      "name": "Kala Ramnath",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Kala Ramnath",
+        "url": "https://en.wikipedia.org/wiki/Kala_Ramnath"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6349967",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6349967"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kala_Ramnath"
+        }
+      ]
+    },
+    {
+      "id": "Q381477",
+      "wikidataId": "Q381477",
+      "name": "Kamal Haasan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamal_at_61st_FF_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Kamal Haasan",
+        "url": "https://en.wikipedia.org/wiki/Kamal_Haasan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q381477",
+      "birthplace": {
+        "name": "Paramakudi",
+        "latitude": 9.54633,
+        "longitude": 78.5907
+      },
+      "birthplaceDistrict": "Ramanathapuram",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q381477"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kamal_Haasan"
+        }
+      ]
+    },
+    {
+      "id": "Q16091592",
+      "wikidataId": "Q16091592",
+      "name": "Kamukara Purushothaman",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Kamukara Purushothaman",
+        "url": "https://en.wikipedia.org/wiki/Kamukara_Purushothaman"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q16091592",
+      "birthplace": {
+        "name": "Thiruvattar",
+        "latitude": 8.33,
+        "longitude": 77.26
+      },
+      "birthplaceDistrict": "Kanniyakumari",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q16091592"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kamukara_Purushothaman"
+        }
+      ]
+    },
+    {
+      "id": "Q6373530",
+      "wikidataId": "Q6373530",
+      "name": "Karthik",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Navarasa_nayagan_karthik_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Karthik (actor)",
+        "url": "https://en.wikipedia.org/wiki/Karthik_(actor)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6373530",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6373530"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karthik_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "Q17403476",
+      "wikidataId": "Q17403476",
+      "name": "Keerthy Suresh",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Keerthy_Suresh_at_Bhola_Shankar_pre_release_event_(2)_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Keerthy Suresh",
+        "url": "https://en.wikipedia.org/wiki/Keerthy_Suresh"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17403476",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/32ZzRl7e5UFtJnDO2URfGi",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17403476"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keerthy_Suresh"
+        }
+      ]
+    },
+    {
+      "id": "Q19547897",
+      "wikidataId": "Q19547897",
+      "name": "Kothamangalam Seenu",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kothamangalam_Seenu.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Kothamangalam Seenu",
+        "url": "https://en.wikipedia.org/wiki/Kothamangalam_Seenu"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q19547897",
+      "birthplace": {
+        "name": "Vathirairuppu",
+        "latitude": 9.666666666,
+        "longitude": 77.638611111
+      },
+      "birthplaceDistrict": "Virudhunagar",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19547897"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kothamangalam_Seenu"
+        }
+      ]
+    },
+    {
+      "id": "Q6434821",
+      "wikidataId": "Q6434821",
+      "name": "Kovai Sarala",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kovai_Sarala.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Kovai Sarala",
+        "url": "https://en.wikipedia.org/wiki/Kovai_Sarala"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6434821",
+      "birthplace": {
+        "name": "Coimbatore",
+        "latitude": 11.000833333,
+        "longitude": 76.963333333
+      },
+      "birthplaceDistrict": "Coimbatore",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6434821"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kovai_Sarala"
+        }
+      ]
+    },
+    {
+      "id": "Q21288352",
+      "wikidataId": "Q21288352",
+      "name": "Kovan (singer)",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kovan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Kovan (singer)",
+        "url": "https://en.wikipedia.org/wiki/Kovan_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q21288352",
+      "birthplace": {
+        "name": "Tamil Nadu",
+        "latitude": 11,
+        "longitude": 79
+      },
+      "birthplaceDistrict": "Ariyalur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q21288352"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kovan_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q6437324",
+      "wikidataId": "Q6437324",
+      "name": "Krish",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Singer-Krish.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Krish (singer)",
+        "url": "https://en.wikipedia.org/wiki/Krish_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6437324",
+      "birthplace": {
+        "name": "Tiruchirappalli",
+        "latitude": 10.826944444,
+        "longitude": 78.692777777
+      },
+      "birthplaceDistrict": "Tiruchirappalli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6437324"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Krish_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q6437423",
+      "wikidataId": "Q6437423",
+      "name": "Krishna Iyer",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Singer_Krishna_Iyer.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Krishna Iyer",
+        "url": "https://en.wikipedia.org/wiki/Krishna_Iyer"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6437423",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6437423"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Krishna_Iyer"
+        }
+      ]
+    },
+    {
+      "id": "Q31367757",
+      "wikidataId": "Q31367757",
+      "name": "Krishnaraj",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "ta",
+        "title": "கிருஷ்ணராஜ்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AF%8D"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q31367757",
+      "birthplace": {
+        "name": "Salem district",
+        "latitude": 11.6646,
+        "longitude": 78.146
+      },
+      "birthplaceDistrict": "Salem",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q31367757"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AF%8D"
+        }
+      ]
+    },
+    {
+      "id": "Q12980338",
+      "wikidataId": "Q12980338",
+      "name": "Kumari Abubakar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "ta",
+        "title": "குமரி அபூபக்கர்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%B0%E0%AE%BF_%E0%AE%85%E0%AE%AA%E0%AF%82%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q12980338",
+      "birthplace": {
+        "name": "Kanchipuram",
+        "latitude": 12.830833333,
+        "longitude": 79.707777777
+      },
+      "birthplaceDistrict": "Kancheepuram",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q12980338"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%B0%E0%AE%BF_%E0%AE%85%E0%AE%AA%E0%AF%82%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D"
+        }
+      ]
+    },
+    {
+      "id": "Q2050587",
+      "wikidataId": "Q2050587",
+      "name": "L. R. Eswari",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LR_Eswari.png?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "L. R. Eswari",
+        "url": "https://en.wikipedia.org/wiki/L._R._Eswari"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2050587",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2050587"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/L._R._Eswari"
+        }
+      ]
+    },
+    {
+      "id": "Q1396801",
+      "wikidataId": "Q1396801",
+      "name": "L. Shankar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L_Shankar.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "L. Shankar",
+        "url": "https://en.wikipedia.org/wiki/L._Shankar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1396801",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb",
+        "appleMusic": "https://music.apple.com/us/artist/2386240"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1396801"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/L._Shankar"
+        }
+      ]
+    },
+    {
+      "id": "Q3534673",
+      "wikidataId": "Q3534673",
+      "name": "M. K. Muthu",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "M. K. Muthu",
+        "url": "https://en.wikipedia.org/wiki/M._K._Muthu"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3534673",
+      "birthplace": {
+        "name": "Thirukkuvalai",
+        "latitude": 10.5839588,
+        "longitude": 79.7125241
+      },
+      "birthplaceDistrict": "Nagapattinam",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3534673"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/M._K._Muthu"
+        }
+      ]
+    },
+    {
+      "id": "Q6712783",
+      "wikidataId": "Q6712783",
+      "name": "M. K. Thyagaraja Bhagavathar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/M.K.Thyagaraja_Bhagavathar.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "M. K. Thyagaraja Bhagavathar",
+        "url": "https://en.wikipedia.org/wiki/M._K._Thyagaraja_Bhagavathar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6712783",
+      "birthplace": {
+        "name": "Mayiladuthurai",
+        "latitude": 11.101944444,
+        "longitude": 79.65
+      },
+      "birthplaceDistrict": "Mayiladuthurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6712783"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/M._K._Thyagaraja_Bhagavathar"
+        }
+      ]
+    },
+    {
+      "id": "Q541607",
+      "wikidataId": "Q541607",
+      "name": "M. L. Vasanthakumari",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MLVasanthakumari.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "M. L. Vasanthakumari",
+        "url": "https://en.wikipedia.org/wiki/M._L._Vasanthakumari"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q541607",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q541607"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/M._L._Vasanthakumari"
+        }
+      ]
+    },
+    {
+      "id": "Q465067",
+      "wikidataId": "Q465067",
+      "name": "M. S. Subbulakshmi",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/M._S._Subbulakshmi_(03).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "M. S. Subbulakshmi",
+        "url": "https://en.wikipedia.org/wiki/M._S._Subbulakshmi"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q465067",
+      "birthplace": {
+        "name": "Madurai",
+        "latitude": 9.919661111,
+        "longitude": 78.119394444
+      },
+      "birthplaceDistrict": "Madurai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/35NVYJXOwkjY8bpul6OBQl",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q465067"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/M._S._Subbulakshmi"
+        }
+      ]
+    },
+    {
+      "id": "Q6728813",
+      "wikidataId": "Q6728813",
+      "name": "Madurai Mani Iyer",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Madurai_Mani_Iyer_1948.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Madurai Mani Iyer",
+        "url": "https://en.wikipedia.org/wiki/Madurai_Mani_Iyer"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6728813",
+      "birthplace": {
+        "name": "Madurai",
+        "latitude": 9.919661111,
+        "longitude": 78.119394444
+      },
+      "birthplaceDistrict": "Madurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6728813"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Madurai_Mani_Iyer"
+        }
+      ]
+    },
+    {
+      "id": "Q6728822",
+      "wikidataId": "Q6728822",
+      "name": "Madurai Sundar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Madurai Sundar",
+        "url": "https://en.wikipedia.org/wiki/Madurai_Sundar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6728822",
+      "birthplace": {
+        "name": "Pattamadai",
+        "latitude": 8.664166666,
+        "longitude": 77.582222222
+      },
+      "birthplaceDistrict": "Tirunelveli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6728822"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Madurai_Sundar"
+        }
+      ]
+    },
+    {
+      "id": "Q6733481",
+      "wikidataId": "Q6733481",
+      "name": "Mahathi",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahathi_at_concert.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Mahathi",
+        "url": "https://en.wikipedia.org/wiki/Mahathi"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6733481",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6733481"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahathi"
+        }
+      ]
+    },
+    {
+      "id": "Q5845135",
+      "wikidataId": "Q5845135",
+      "name": "Manikka Vinayagam",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Manikka Vinayagam",
+        "url": "https://en.wikipedia.org/wiki/Manikka_Vinayagam"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5845135",
+      "birthplace": {
+        "name": "Mayiladuthurai",
+        "latitude": 11.101944444,
+        "longitude": 79.65
+      },
+      "birthplaceDistrict": "Mayiladuthurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5845135"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manikka_Vinayagam"
+        }
+      ]
+    },
+    {
+      "id": "Q106819396",
+      "wikidataId": "Q106819396",
+      "name": "Maran",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Maran (actor)",
+        "url": "https://en.wikipedia.org/wiki/Maran_(actor)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q106819396",
+      "birthplace": {
+        "name": "Chengalpattu",
+        "latitude": 12.69055556,
+        "longitude": 79.97777778
+      },
+      "birthplaceDistrict": "Chengalpattu",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q106819396"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maran_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "Q18638042",
+      "wikidataId": "Q18638042",
+      "name": "Maria Roe Vincent",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Maria Roe Vincent",
+        "url": "https://en.wikipedia.org/wiki/Maria_Roe_Vincent"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18638042",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18638042"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maria_Roe_Vincent"
+        }
+      ]
+    },
+    {
+      "id": "Q2049827",
+      "wikidataId": "Q2049827",
+      "name": "Megha",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Megha (singer)",
+        "url": "https://en.wikipedia.org/wiki/Megha_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2049827",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2049827"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Megha_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q6894168",
+      "wikidataId": "Q6894168",
+      "name": "Mohideen Baig",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Mohideen Baig",
+        "url": "https://en.wikipedia.org/wiki/Mohideen_Baig"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6894168",
+      "birthplace": {
+        "name": "Tamil Nadu",
+        "latitude": 11,
+        "longitude": 79
+      },
+      "birthplaceDistrict": "Ariyalur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6894168"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mohideen_Baig"
+        }
+      ]
+    },
+    {
+      "id": "Q15995659",
+      "wikidataId": "Q15995659",
+      "name": "Muthiah Bhagavatar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Muthiah Bhagavatar",
+        "url": "https://en.wikipedia.org/wiki/Muthiah_Bhagavatar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q15995659",
+      "birthplace": {
+        "name": "Tirunelveli",
+        "latitude": 8.728888888,
+        "longitude": 77.708055555
+      },
+      "birthplaceDistrict": "Tirunelveli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q15995659"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muthiah_Bhagavatar"
+        }
+      ]
+    },
+    {
+      "id": "Q12975497",
+      "wikidataId": "Q12975497",
+      "name": "N. S. Krishnan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paithiakaran_1947_film.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "N. S. Krishnan",
+        "url": "https://en.wikipedia.org/wiki/N._S._Krishnan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q12975497",
+      "birthplace": {
+        "name": "Nagercoil",
+        "latitude": 8.1875,
+        "longitude": 77.429444444
+      },
+      "birthplaceDistrict": "Kanniyakumari",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q12975497"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/N._S._Krishnan"
+        }
+      ]
+    },
+    {
+      "id": "Q3521977",
+      "wikidataId": "Q3521977",
+      "name": "Nassar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%AE%A8%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%9A%E0%AE%B0%E0%AF%8D.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Nassar (actor)",
+        "url": "https://en.wikipedia.org/wiki/Nassar_(actor)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3521977",
+      "birthplace": {
+        "name": "Chengalpattu",
+        "latitude": 12.69055556,
+        "longitude": 79.97777778
+      },
+      "birthplaceDistrict": "Chengalpattu",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3521977"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nassar_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "Q72736956",
+      "wikidataId": "Q72736956",
+      "name": "Neela Ramgopal",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neela_Ramgopal_interview.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Neela Ramgopal",
+        "url": "https://en.wikipedia.org/wiki/Neela_Ramgopal"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q72736956",
+      "birthplace": {
+        "name": "Kudanthaiyan",
+        "latitude": 10.966666666,
+        "longitude": 79.383333333
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q72736956"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neela_Ramgopal"
+        }
+      ]
+    },
+    {
+      "id": "Q108906664",
+      "wikidataId": "Q108906664",
+      "name": "Nithish",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q108906664",
+      "birthplace": {
+        "name": "Nagapattinam",
+        "latitude": 10.766666666,
+        "longitude": 79.833333333
+      },
+      "birthplaceDistrict": "Nagapattinam",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/7AvIkZKEQtAWIsDTGyoY2p",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108906664"
+        }
+      ]
+    },
+    {
+      "id": "Q4526771",
+      "wikidataId": "Q4526771",
+      "name": "Nithyasree Mahadevan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nithyasree_mahadevan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Nithyasree Mahadevan",
+        "url": "https://en.wikipedia.org/wiki/Nithyasree_Mahadevan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4526771",
+      "birthplace": {
+        "name": "Thiruvaiyaru",
+        "latitude": 10.88,
+        "longitude": 79.1
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q4526771"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nithyasree_Mahadevan"
+        }
+      ]
+    },
+    {
+      "id": "Q7117510",
+      "wikidataId": "Q7117510",
+      "name": "P. S. Narayanaswamy",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/P._S._Narayanaswamy.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "P. S. Narayanaswamy",
+        "url": "https://en.wikipedia.org/wiki/P._S._Narayanaswamy"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7117510",
+      "birthplace": {
+        "name": "Konerirajapuram Gram Panchayat",
+        "latitude": null,
+        "longitude": null
+      },
+      "birthplaceDistrict": "Nagapattinam",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7117510"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/P._S._Narayanaswamy"
+        }
+      ]
+    },
+    {
+      "id": "Q117881",
+      "wikidataId": "Q117881",
+      "name": "Papanasam Sivan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Papanasam Sivan",
+        "url": "https://en.wikipedia.org/wiki/Papanasam_Sivan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q117881",
+      "birthplace": {
+        "name": "Thanjavur district",
+        "latitude": 10.64,
+        "longitude": 79.22
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q117881"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Papanasam_Sivan"
+        }
+      ]
+    },
+    {
+      "id": "Q7136246",
+      "wikidataId": "Q7136246",
+      "name": "Paravai Muniyamma",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paravimuniammal.gif?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Paravai Muniyamma",
+        "url": "https://en.wikipedia.org/wiki/Paravai_Muniyamma"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7136246",
+      "birthplace": {
+        "name": "Tamil Nadu",
+        "latitude": 11,
+        "longitude": 79
+      },
+      "birthplaceDistrict": "Madurai",
+      "streaming": {
+        "spotify": null,
+        "appleMusic": "https://music.apple.com/us/artist/366282055"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "manual-override",
+        "confidence": "manual"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7136246"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paravai_Muniyamma"
+        }
+      ]
+    },
+    {
+      "id": "Q7229058",
+      "wikidataId": "Q7229058",
+      "name": "Pop Shalini",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Pop Shalini",
+        "url": "https://en.wikipedia.org/wiki/Pop_Shalini"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7229058",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7229058"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pop_Shalini"
+        }
+      ]
+    },
+    {
+      "id": "Q48720240",
+      "wikidataId": "Q48720240",
+      "name": "Pradeep Kumar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Comedian_Sunil_Pal_with_Singer_G_Pradeep_Kumar.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Pradeep Kumar (musician)",
+        "url": "https://en.wikipedia.org/wiki/Pradeep_Kumar_(musician)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q48720240",
+      "birthplace": {
+        "name": "Tiruchirappalli",
+        "latitude": 10.826944444,
+        "longitude": 78.692777777
+      },
+      "birthplaceDistrict": "Tiruchirappalli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q48720240"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pradeep_Kumar_(musician)"
+        }
+      ]
+    },
+    {
+      "id": "Q56284000",
+      "wikidataId": "Q56284000",
+      "name": "Praniti",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Praniti",
+        "url": "https://en.wikipedia.org/wiki/Praniti"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q56284000",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q56284000"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Praniti"
+        }
+      ]
+    },
+    {
+      "id": "Q9062928",
+      "wikidataId": "Q9062928",
+      "name": "Priya Himesh",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PriyaHimesh.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Priya Himesh",
+        "url": "https://en.wikipedia.org/wiki/Priya_Himesh"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q9062928",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q9062928"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Priya_Himesh"
+        }
+      ]
+    },
+    {
+      "id": "Q132034002",
+      "wikidataId": "Q132034002",
+      "name": "Q132034002",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q132034002",
+      "birthplace": {
+        "name": "Viluppuram",
+        "latitude": 11.933333333,
+        "longitude": 79.483333333
+      },
+      "birthplaceDistrict": "Viluppuram",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q132034002"
+        }
+      ]
+    },
+    {
+      "id": "Q17495917",
+      "wikidataId": "Q17495917",
+      "name": "R. Subbalakshmi",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Subbalakshmi",
+        "url": "https://en.wikipedia.org/wiki/Subbalakshmi"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17495917",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17495917"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Subbalakshmi"
+        }
+      ]
+    },
+    {
+      "id": "Q7280201",
+      "wikidataId": "Q7280201",
+      "name": "Radha Viswanathan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Radha Viswanathan",
+        "url": "https://en.wikipedia.org/wiki/Radha_Viswanathan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7280201",
+      "birthplace": {
+        "name": "Gobichettipalayam",
+        "latitude": 11.453611111,
+        "longitude": 77.438333333
+      },
+      "birthplaceDistrict": "Erode",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/1IAW3zc42QrGrZZEsTB9ft",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7280201"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Radha_Viswanathan"
+        }
+      ]
+    },
+    {
+      "id": "Q14266529",
+      "wikidataId": "Q14266529",
+      "name": "Ramya NSK",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramya_NSK.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Ramya NSK",
+        "url": "https://en.wikipedia.org/wiki/Ramya_NSK"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q14266529",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/1kymDvCl9hR0bZ9DPy65ie",
+        "appleMusic": "https://music.apple.com/us/artist/531797226"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q14266529"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramya_NSK"
+        }
+      ]
+    },
+    {
+      "id": "Q69469761",
+      "wikidataId": "Q69469761",
+      "name": "Ranjini Jose",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranjini_Jose.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Ranjini Jose",
+        "url": "https://en.wikipedia.org/wiki/Ranjini_Jose"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q69469761",
+      "birthplace": {
+        "name": "Nungambakkam",
+        "latitude": 13.0654,
+        "longitude": 80.2326
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q69469761"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranjini_Jose"
+        }
+      ]
+    },
+    {
+      "id": "Q2049183",
+      "wikidataId": "Q2049183",
+      "name": "Ranjith",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Singer_Ranjith_performing_in_Sangarsh_2012.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Ranjith (singer)",
+        "url": "https://en.wikipedia.org/wiki/Ranjith_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2049183",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2049183"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranjith_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q18209881",
+      "wikidataId": "Q18209881",
+      "name": "Rita",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Rita Thyagarajan",
+        "url": "https://en.wikipedia.org/wiki/Rita_Thyagarajan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18209881",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18209881"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rita_Thyagarajan"
+        }
+      ]
+    },
+    {
+      "id": "Q7336736",
+      "wikidataId": "Q7336736",
+      "name": "Rithvik Raja",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rithvik_Raja_at_Svanubhava%2C_2012.jpg?width=320",
+      "wikipedia": {
+        "language": "ta",
+        "title": "ரித்விக் ராஜா",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%BE"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7336736",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7336736"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%BE"
+        }
+      ]
+    },
+    {
+      "id": "Q137939894",
+      "wikidataId": "Q137939894",
+      "name": "Ruban Raj",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q137939894",
+      "birthplace": {
+        "name": "Thoothukudi",
+        "latitude": 8.783333333,
+        "longitude": 78.133333333
+      },
+      "birthplaceDistrict": "Thoothukudi",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/4oMcmhjFKZJnmUlQYtSIxr",
+        "appleMusic": "https://music.apple.com/us/artist/1795279202"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q137939894"
+        }
+      ]
+    },
+    {
+      "id": "Q7387483",
+      "wikidataId": "Q7387483",
+      "name": "S. G. Kittappa",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/S._G._Kittappa.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "S. G. Kittappa",
+        "url": "https://en.wikipedia.org/wiki/S._G._Kittappa"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7387483",
+      "birthplace": {
+        "name": "Shenkottai",
+        "latitude": 8.973333,
+        "longitude": 77.246389
+      },
+      "birthplaceDistrict": "Tirunelveli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7387483"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/S._G._Kittappa"
+        }
+      ]
+    },
+    {
+      "id": "Q19664497",
+      "wikidataId": "Q19664497",
+      "name": "S. N. Surendar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "S. N. Surendar",
+        "url": "https://en.wikipedia.org/wiki/S._N._Surendar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q19664497",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19664497"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/S._N._Surendar"
+        }
+      ]
+    },
+    {
+      "id": "Q3533144",
+      "wikidataId": "Q3533144",
+      "name": "S. P. B. Charan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/S._P._B._Charan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "S. P. Charan",
+        "url": "https://en.wikipedia.org/wiki/S._P._Charan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3533144",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3533144"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/S._P._Charan"
+        }
+      ]
+    },
+    {
+      "id": "Q137157153",
+      "wikidataId": "Q137157153",
+      "name": "S. V. Subbiah Bhagavathar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/S._V._Subbiah_Bhagavathar.jpg?width=320",
+      "wikipedia": {
+        "language": "ta",
+        "title": "எஸ். வி. சுப்பையா பாகவதர்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B8%E0%AF%8D._%E0%AE%B5%E0%AE%BF._%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%88%E0%AE%AF%E0%AE%BE_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%A4%E0%AE%B0%E0%AF%8D"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q137157153",
+      "birthplace": {
+        "name": "Tenkasi",
+        "latitude": 8.96666667,
+        "longitude": 77.31666667
+      },
+      "birthplaceDistrict": "Tirunelveli",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/1UrXov5PtGLcAWmKtn3oH8",
+        "appleMusic": "https://music.apple.com/us/artist/1629743944"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q137157153"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B8%E0%AF%8D._%E0%AE%B5%E0%AE%BF._%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%88%E0%AE%AF%E0%AE%BE_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%A4%E0%AE%B0%E0%AF%8D"
+        }
+      ]
+    },
+    {
+      "id": "Q3522846",
+      "wikidataId": "Q3522846",
+      "name": "Saindhavi",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saindhavi_Prakash.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Saindhavi",
+        "url": "https://en.wikipedia.org/wiki/Saindhavi"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3522846",
+      "birthplace": {
+        "name": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit",
+        "appleMusic": "https://music.apple.com/us/artist/267366682"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "manual-override",
+        "confidence": "manual"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3522846"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saindhavi"
+        }
+      ]
+    },
+    {
+      "id": "Q19599562",
+      "wikidataId": "Q19599562",
+      "name": "Saisharan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Saisharan",
+        "url": "https://en.wikipedia.org/wiki/Saisharan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q19599562",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19599562"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saisharan"
+        }
+      ]
+    },
+    {
+      "id": "Q7402910",
+      "wikidataId": "Q7402910",
+      "name": "Saketharaman",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/08FR_S_SAKATHARAMAN_22165g.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Saketharaman",
+        "url": "https://en.wikipedia.org/wiki/Saketharaman"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7402910",
+      "birthplace": {
+        "name": "Thanjavur",
+        "latitude": 10.787,
+        "longitude": 79.137806
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7402910"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saketharaman"
+        }
+      ]
+    },
+    {
+      "id": "Q7418484",
+      "wikidataId": "Q7418484",
+      "name": "Sanjay Subrahmanyan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanjay_Subrahmanyan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Sanjay Subrahmanyan",
+        "url": "https://en.wikipedia.org/wiki/Sanjay_Subrahmanyan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7418484",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7418484"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sanjay_Subrahmanyan"
+        }
+      ]
+    },
+    {
+      "id": "Q1752094",
+      "wikidataId": "Q1752094",
+      "name": "Sathya Prakash",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sathya.jpg?width=320",
+      "wikipedia": {
+        "language": "ta",
+        "title": "சத்ய பிரகாஷ்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%A4%E0%AF%8D%E0%AE%AF_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%95%E0%AE%BE%E0%AE%B7%E0%AF%8D"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1752094",
+      "birthplace": {
+        "name": "Sholavandan",
+        "latitude": 10.0167,
+        "longitude": 77.9667
+      },
+      "birthplaceDistrict": "Madurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1752094"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%A4%E0%AF%8D%E0%AE%AF_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%95%E0%AE%BE%E0%AE%B7%E0%AF%8D"
+        }
+      ]
+    },
+    {
+      "id": "Q123485039",
+      "wikidataId": "Q123485039",
+      "name": "Sathyaprakash",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q123485039",
+      "birthplace": {
+        "name": "Coimbatore",
+        "latitude": 11.000833333,
+        "longitude": 76.963333333
+      },
+      "birthplaceDistrict": "Coimbatore",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q123485039"
+        }
+      ]
+    },
+    {
+      "id": "Q3525273",
+      "wikidataId": "Q3525273",
+      "name": "Semmangudi Srinivasa Iyer",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Semmangudi_Srinivasa_Iyer.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Semmangudi Srinivasa Iyer",
+        "url": "https://en.wikipedia.org/wiki/Semmangudi_Srinivasa_Iyer"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3525273",
+      "birthplace": {
+        "name": "Thanjavur",
+        "latitude": 10.787,
+        "longitude": 79.137806
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3525273"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Semmangudi_Srinivasa_Iyer"
+        }
+      ]
+    },
+    {
+      "id": "Q55579540",
+      "wikidataId": "Q55579540",
+      "name": "Senthil Ganesh",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Senthil Ganesh",
+        "url": "https://en.wikipedia.org/wiki/Senthil_Ganesh"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q55579540",
+      "birthplace": {
+        "name": "Karambakkudi",
+        "latitude": 10.47,
+        "longitude": 79.13
+      },
+      "birthplaceDistrict": "Pudukkottai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q55579540"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Senthil_Ganesh"
+        }
+      ]
+    },
+    {
+      "id": "Q6126886",
+      "wikidataId": "Q6126886",
+      "name": "Sharda",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Sharda (singer)",
+        "url": "https://en.wikipedia.org/wiki/Sharda_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6126886",
+      "birthplace": {
+        "name": "Kudanthaiyan",
+        "latitude": 10.966666666,
+        "longitude": 79.383333333
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6126886"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sharda_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q17495897",
+      "wikidataId": "Q17495897",
+      "name": "Shoba Chandrasekhar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Shoba Chandrasekhar",
+        "url": "https://en.wikipedia.org/wiki/Shoba_Chandrasekhar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17495897",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17495897"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shoba_Chandrasekhar"
+        }
+      ]
+    },
+    {
+      "id": "Q331155",
+      "wikidataId": "Q331155",
+      "name": "Shruti Haasan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shruti_Haasan_at_the_special_screening_of_the_short_film_Devi_(32).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Shruti Haasan",
+        "url": "https://en.wikipedia.org/wiki/Shruti_Haasan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q331155",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h",
+        "appleMusic": "https://music.apple.com/us/artist/322996935"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q331155"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shruti_Haasan"
+        }
+      ]
+    },
+    {
+      "id": "Q18358401",
+      "wikidataId": "Q18358401",
+      "name": "Sid Sriram",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sid_Sriram.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Sid Sriram",
+        "url": "https://en.wikipedia.org/wiki/Sid_Sriram"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18358401",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18358401"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sid_Sriram"
+        }
+      ]
+    },
+    {
+      "id": "Q3124846",
+      "wikidataId": "Q3124846",
+      "name": "Siddharth",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SiddharthNarayan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Siddharth (actor)",
+        "url": "https://en.wikipedia.org/wiki/Siddharth_(actor)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3124846",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3124846"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Siddharth_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "Q7513776",
+      "wikidataId": "Q7513776",
+      "name": "Sikkil Gurucharan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sikkil_Gurucharan_in_Concert.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Sikkil Gurucharan",
+        "url": "https://en.wikipedia.org/wiki/Sikkil_Gurucharan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7513776",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7513776"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sikkil_Gurucharan"
+        }
+      ]
+    },
+    {
+      "id": "Q7530471",
+      "wikidataId": "Q7530471",
+      "name": "Sirkazhi Govindarajan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sirkazhi_Govindarajan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Sirkazhi Govindarajan",
+        "url": "https://en.wikipedia.org/wiki/Sirkazhi_Govindarajan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7530471",
+      "birthplace": {
+        "name": "Sirkazhi",
+        "latitude": 11.23333333,
+        "longitude": 79.73333333
+      },
+      "birthplaceDistrict": "Nagapattinam",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7530471"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sirkazhi_Govindarajan"
+        }
+      ]
+    },
+    {
+      "id": "Q3531959",
+      "wikidataId": "Q3531959",
+      "name": "Sivakartikeyan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sivakarthikeyan_at_Maan_Karate_Success_Meet_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Sivakarthikeyan",
+        "url": "https://en.wikipedia.org/wiki/Sivakarthikeyan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3531959",
+      "birthplace": {
+        "name": "Singampunari",
+        "latitude": 10.184386111,
+        "longitude": 78.422158333
+      },
+      "birthplaceDistrict": "Sivagangai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3531959"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sivakarthikeyan"
+        }
+      ]
+    },
+    {
+      "id": "Q20784836",
+      "wikidataId": "Q20784836",
+      "name": "Sofia Ashraf",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Sofia Ashraf",
+        "url": "https://en.wikipedia.org/wiki/Sofia_Ashraf"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q20784836",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q20784836"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sofia_Ashraf"
+        }
+      ]
+    },
+    {
+      "id": "Q18720262",
+      "wikidataId": "Q18720262",
+      "name": "Srimathumitha",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Srimathumitha_in_a_recording.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Srimathumitha",
+        "url": "https://en.wikipedia.org/wiki/Srimathumitha"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18720262",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18720262"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srimathumitha"
+        }
+      ]
+    },
+    {
+      "id": "Q7586443",
+      "wikidataId": "Q7586443",
+      "name": "Srinivas",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Srinivas01_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Srinivas (singer)",
+        "url": "https://en.wikipedia.org/wiki/Srinivas_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7586443",
+      "birthplace": {
+        "name": "Ambasamudram",
+        "latitude": 8.7,
+        "longitude": 77.47
+      },
+      "birthplaceDistrict": "Tirunelveli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7586443"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srinivas_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q7632912",
+      "wikidataId": "Q7632912",
+      "name": "Suchitra",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Suchitra",
+        "url": "https://en.wikipedia.org/wiki/Suchitra"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7632912",
+      "birthplace": {
+        "name": "Mayiladuthurai",
+        "latitude": 11.101944444,
+        "longitude": 79.65
+      },
+      "birthplaceDistrict": "Mayiladuthurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7632912"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Suchitra"
+        }
+      ]
+    },
+    {
+      "id": "Q3532755",
+      "wikidataId": "Q3532755",
+      "name": "Sudha Ragunathan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sutha_Ragunathan_Perth_Au_2012.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Sudha Ragunathan",
+        "url": "https://en.wikipedia.org/wiki/Sudha_Ragunathan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3532755",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3532755"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sudha_Ragunathan"
+        }
+      ]
+    },
+    {
+      "id": "Q32543205",
+      "wikidataId": "Q32543205",
+      "name": "Sundarayyar",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Sundarayyar",
+        "url": "https://en.wikipedia.org/wiki/Sundarayyar"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q32543205",
+      "birthplace": {
+        "name": "Dharmapuri district",
+        "latitude": 12.126,
+        "longitude": 78.154
+      },
+      "birthplaceDistrict": "Dharmapuri",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q32543205"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sundarayyar"
+        }
+      ]
+    },
+    {
+      "id": "Q7640384",
+      "wikidataId": "Q7640384",
+      "name": "Sunitha Sarathy",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Sunitha Sarathy",
+        "url": "https://en.wikipedia.org/wiki/Sunitha_Sarathy"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7640384",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B",
+        "appleMusic": "https://music.apple.com/us/artist/182702909"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7640384"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sunitha_Sarathy"
+        }
+      ]
+    },
+    {
+      "id": "Q2051655",
+      "wikidataId": "Q2051655",
+      "name": "Suresh Peters",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Suresh_Peters.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Suresh Peters",
+        "url": "https://en.wikipedia.org/wiki/Suresh_Peters"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2051655",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2051655"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Suresh_Peters"
+        }
+      ]
+    },
+    {
+      "id": "Q59782245",
+      "wikidataId": "Q59782245",
+      "name": "Surmukhi Raman",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SurmukhiRaman.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Surmukhi Raman",
+        "url": "https://en.wikipedia.org/wiki/Surmukhi_Raman"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q59782245",
+      "birthplace": {
+        "name": "Coimbatore",
+        "latitude": 11.000833333,
+        "longitude": 76.963333333
+      },
+      "birthplaceDistrict": "Coimbatore",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q59782245"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Surmukhi_Raman"
+        }
+      ]
+    },
+    {
+      "id": "Q7668466",
+      "wikidataId": "Q7668466",
+      "name": "T. L. Maharajan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "T. L. Maharajan",
+        "url": "https://en.wikipedia.org/wiki/T._L._Maharajan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7668466",
+      "birthplace": {
+        "name": "Tiruchirappalli district",
+        "latitude": 10.97,
+        "longitude": 78.65
+      },
+      "birthplaceDistrict": "Tiruchirappalli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7668466"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T._L._Maharajan"
+        }
+      ]
+    },
+    {
+      "id": "Q7668495",
+      "wikidataId": "Q7668495",
+      "name": "T. M. Krishna",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TM_Krishna.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "T. M. Krishna",
+        "url": "https://en.wikipedia.org/wiki/T._M._Krishna"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7668495",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7668495"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T._M._Krishna"
+        }
+      ]
+    },
+    {
+      "id": "Q7484728",
+      "wikidataId": "Q7484728",
+      "name": "T. M. Soundararajan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TM_Soundararajan_2016_stamp_of_India.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "T. M. Soundararajan",
+        "url": "https://en.wikipedia.org/wiki/T._M._Soundararajan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7484728",
+      "birthplace": {
+        "name": "Madurai",
+        "latitude": 9.919661111,
+        "longitude": 78.119394444
+      },
+      "birthplaceDistrict": "Madurai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/4y01WeCT5mNIAYRPjJ4sgj",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7484728"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T._M._Soundararajan"
+        }
+      ]
+    },
+    {
+      "id": "Q7668541",
+      "wikidataId": "Q7668541",
+      "name": "T. N. Seshagopalan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/T._N._Sheshagopalan.jpeg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "T. N. Seshagopalan",
+        "url": "https://en.wikipedia.org/wiki/T._N._Seshagopalan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7668541",
+      "birthplace": {
+        "name": "Nagapattinam",
+        "latitude": 10.766666666,
+        "longitude": 79.833333333
+      },
+      "birthplaceDistrict": "Nagapattinam",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7668541"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T._N._Seshagopalan"
+        }
+      ]
+    },
+    {
+      "id": "Q16734853",
+      "wikidataId": "Q16734853",
+      "name": "T. S. Raghavendra",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "T. S. Raghavendra",
+        "url": "https://en.wikipedia.org/wiki/T._S._Raghavendra"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q16734853",
+      "birthplace": {
+        "name": "Tamil Nadu",
+        "latitude": 11,
+        "longitude": 79
+      },
+      "birthplaceDistrict": "Ariyalur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q16734853"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T._S._Raghavendra"
+        }
+      ]
+    },
+    {
+      "id": "Q4242886",
+      "wikidataId": "Q4242886",
+      "name": "T. V. Sankaranarayanan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/T._V._Sankaranarayanan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "T. V. Sankaranarayanan",
+        "url": "https://en.wikipedia.org/wiki/T._V._Sankaranarayanan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4242886",
+      "birthplace": {
+        "name": "Mayiladuthurai",
+        "latitude": 11.101944444,
+        "longitude": 79.65
+      },
+      "birthplaceDistrict": "Mayiladuthurai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q4242886"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T._V._Sankaranarayanan"
+        }
+      ]
+    },
+    {
+      "id": "Q2051183",
+      "wikidataId": "Q2051183",
+      "name": "Tippu",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tippu2020.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Tippu (singer)",
+        "url": "https://en.wikipedia.org/wiki/Tippu_(singer)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2051183",
+      "birthplace": {
+        "name": "Tiruchirappalli",
+        "latitude": 10.826944444,
+        "longitude": 78.692777777
+      },
+      "birthplaceDistrict": "Tiruchirappalli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2051183"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tippu_(singer)"
+        }
+      ]
+    },
+    {
+      "id": "Q2044389",
+      "wikidataId": "Q2044389",
+      "name": "Tyagaraja",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyagaraja_(cropped).png?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Tyagaraja",
+        "url": "https://en.wikipedia.org/wiki/Tyagaraja"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2044389",
+      "birthplace": {
+        "name": "Thanjavur district",
+        "latitude": 10.64,
+        "longitude": 79.22
+      },
+      "birthplaceDistrict": "Thanjavur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2044389"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tyagaraja"
+        }
+      ]
+    },
+    {
+      "id": "Q641384",
+      "wikidataId": "Q641384",
+      "name": "Uma Mohan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Umamohan1.JPG?width=320",
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q641384",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q641384"
+        }
+      ]
+    },
+    {
+      "id": "Q19828908",
+      "wikidataId": "Q19828908",
+      "name": "Uthara Unnikrishnan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Uthara Unnikrishnan",
+        "url": "https://en.wikipedia.org/wiki/Uthara_Unnikrishnan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q19828908",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19828908"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Uthara_Unnikrishnan"
+        }
+      ]
+    },
+    {
+      "id": "Q4241855",
+      "wikidataId": "Q4241855",
+      "name": "V.R. Raghava Krishna",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vr-raghavakrishna.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "V. R. Raghava Krishna",
+        "url": "https://en.wikipedia.org/wiki/V._R._Raghava_Krishna"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4241855",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q4241855"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/V._R._Raghava_Krishna"
+        }
+      ]
+    },
+    {
+      "id": "Q2051336",
+      "wikidataId": "Q2051336",
+      "name": "Vani Jairam",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vani_Jairam_2014_FF_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Vani Jairam",
+        "url": "https://en.wikipedia.org/wiki/Vani_Jairam"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2051336",
+      "birthplace": {
+        "name": "Vellore",
+        "latitude": 12.933333333,
+        "longitude": 79.133333333
+      },
+      "birthplaceDistrict": "Vellore",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/17Jj3Xia6crs4OatDEpuMR",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2051336"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vani_Jairam"
+        }
+      ]
+    },
+    {
+      "id": "Q110916838",
+      "wikidataId": "Q110916838",
+      "name": "Varadharajan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Pavalar Varadharajan",
+        "url": "https://en.wikipedia.org/wiki/Pavalar_Varadharajan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q110916838",
+      "birthplace": {
+        "name": "Pannaipuram",
+        "latitude": 9.861944444,
+        "longitude": 77.271944444
+      },
+      "birthplaceDistrict": "Theni",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q110916838"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pavalar_Varadharajan"
+        }
+      ]
+    },
+    {
+      "id": "Q7918085",
+      "wikidataId": "Q7918085",
+      "name": "Veenai Dhanammal",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Veena_Dhanammal_1.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Veenai Dhanammal",
+        "url": "https://en.wikipedia.org/wiki/Veenai_Dhanammal"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7918085",
+      "birthplace": {
+        "name": "George Town",
+        "latitude": 13.0939,
+        "longitude": 80.2839
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7918085"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Veenai_Dhanammal"
+        }
+      ]
+    },
+    {
+      "id": "Q7919245",
+      "wikidataId": "Q7919245",
+      "name": "Velmurugan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SingerVelmurugan.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Velmurugan",
+        "url": "https://en.wikipedia.org/wiki/Velmurugan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7919245",
+      "birthplace": {
+        "name": "Neyveli",
+        "latitude": 11.6,
+        "longitude": 79.48
+      },
+      "birthplaceDistrict": "Cuddalore",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7919245"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Velmurugan"
+        }
+      ]
+    },
+    {
+      "id": "Q22278322",
+      "wikidataId": "Q22278322",
+      "name": "Vidya Iyer",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vidya_Vox_2016_(cropped).png?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Vidya Vox",
+        "url": "https://en.wikipedia.org/wiki/Vidya_Vox"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q22278322",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN",
+        "appleMusic": null
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q22278322"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vidya_Vox"
+        }
+      ]
+    },
+    {
+      "id": "Q7929087",
+      "wikidataId": "Q7929087",
+      "name": "Vijay Antony",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/VijayAntony.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Vijay Antony",
+        "url": "https://en.wikipedia.org/wiki/Vijay_Antony"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7929087",
+      "birthplace": {
+        "name": "Nagercoil",
+        "latitude": 8.1875,
+        "longitude": 77.429444444
+      },
+      "birthplaceDistrict": "Kanniyakumari",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7929087"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vijay_Antony"
+        }
+      ]
+    },
+    {
+      "id": "Q2051905",
+      "wikidataId": "Q2051905",
+      "name": "Vijay Yeshudas",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vijay_Yesudas_in_NJ_USA%2C_2010_(cropped).jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Vijay Yesudas",
+        "url": "https://en.wikipedia.org/wiki/Vijay_Yesudas"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2051905",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2051905"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vijay_Yesudas"
+        }
+      ]
+    },
+    {
+      "id": "Q7929269",
+      "wikidataId": "Q7929269",
+      "name": "Vijayalakshmi Navaneethakrishnan",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr._Vijayalakshmi_Navaneethakrishnan_Madurai_2009.JPG?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Vijayalakshmi Navaneethakrishnan",
+        "url": "https://en.wikipedia.org/wiki/Vijayalakshmi_Navaneethakrishnan"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7929269",
+      "birthplace": {
+        "name": "Tamil Nadu",
+        "latitude": 11,
+        "longitude": 79
+      },
+      "birthplaceDistrict": "Ariyalur",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7929269"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vijayalakshmi_Navaneethakrishnan"
+        }
+      ]
+    },
+    {
+      "id": "Q17151291",
+      "wikidataId": "Q17151291",
+      "name": "Viji Subramaniam",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Viji Subramaniam",
+        "url": "https://en.wikipedia.org/wiki/Viji_Subramaniam"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17151291",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17151291"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Viji_Subramaniam"
+        }
+      ]
+    },
+    {
+      "id": "Q312783",
+      "wikidataId": "Q312783",
+      "name": "Vivek",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivek_Tamil_actor.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Vivek (actor)",
+        "url": "https://en.wikipedia.org/wiki/Vivek_(actor)"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q312783",
+      "birthplace": {
+        "name": "Kovilpatti",
+        "latitude": 9.17,
+        "longitude": 77.87
+      },
+      "birthplaceDistrict": "Thoothukudi",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q312783"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vivek_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "Q235550",
+      "wikidataId": "Q235550",
+      "name": "Y. G. Mahendra",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ygmahendran_DSC_0130.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Y. G. Mahendran",
+        "url": "https://en.wikipedia.org/wiki/Y._G._Mahendran"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q235550",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q235550"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Y._G._Mahendran"
+        }
+      ]
+    },
+    {
+      "id": "Q3524640",
+      "wikidataId": "Q3524640",
+      "name": "Yugendran",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "en",
+        "title": "Yugendran",
+        "url": "https://en.wikipedia.org/wiki/Yugendran"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3524640",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3524640"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yugendran"
+        }
+      ]
+    },
+    {
+      "id": "Q1387724",
+      "wikidataId": "Q1387724",
+      "name": "Yuvan Shankar Raja",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yuvan_Shankar_Raja_exclusive_HQ_Photos_Silverscreen.jpg?width=320",
+      "wikipedia": {
+        "language": "en",
+        "title": "Yuvan Shankar Raja",
+        "url": "https://en.wikipedia.org/wiki/Yuvan_Shankar_Raja"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1387724",
+      "birthplace": {
+        "name": "Chennai",
+        "latitude": 13.0825,
+        "longitude": 80.275
+      },
+      "birthplaceDistrict": "Chennai",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy",
+        "appleMusic": "https://music.apple.com/us/artist/117755361"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "wikidata-administrative-hierarchy",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1387724"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yuvan_Shankar_Raja"
+        }
+      ]
+    },
+    {
+      "id": "Q139588529",
+      "wikidataId": "Q139588529",
+      "name": "Yuvanshree Dhayanithi",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Composer_Yuvanshree_Dhayanithi_Hd_Images.jpg?width=320",
+      "wikipedia": null,
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q139588529",
+      "birthplace": {
+        "name": "Dindigul",
+        "latitude": 10.362,
+        "longitude": 77.973611111
+      },
+      "birthplaceDistrict": "Dindigul",
+      "streaming": {
+        "spotify": "https://open.spotify.com/artist/6GCLL4AiUudACAqGSAJjIw",
+        "appleMusic": "https://music.apple.com/us/artist/1545376316"
+      },
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q139588529"
+        }
+      ]
+    },
+    {
+      "id": "Q97231618",
+      "wikidataId": "Q97231618",
+      "name": "ஏக்நாத்",
+      "category": [
+        "singer"
+      ],
+      "imageUrl": null,
+      "wikipedia": {
+        "language": "ta",
+        "title": "ஏக்நாத்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%8F%E0%AE%95%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AF%8D"
+      },
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q97231618",
+      "birthplace": {
+        "name": "Kizha Ambur",
+        "latitude": 8.7413,
+        "longitude": 77.39
+      },
+      "birthplaceDistrict": "Tirunelveli",
+      "nativePlace": null,
+      "districtResolution": {
+        "method": "geo-point-in-polygon",
+        "confidence": "high"
+      },
+      "sources": [
+        {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q97231618"
+        },
+        {
+          "type": "wikipedia",
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%8F%E0%AE%95%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AF%8D"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "candidates": 145,
+    "tamilNaduBirthplace": 145,
+    "districtResolved": 145,
+    "needsReview": 0,
+    "withWikipedia": 134,
+    "withImage": 86
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "Curated Wikidata QIDs of VERIFIED Tamil-Nadu-born singers that the SPARQL harvest (scripts/fetch-artists.ts) misses — either because their Wikidata occupation (P106) is not singer/a singer-subclass, or because their entry has no place of birth (P19). The fetch step force-includes these QIDs as candidates, pulling name/birthplace/sitelinks/image from Wikidata (never invented). For a seed whose birthplace cannot be resolved to a current district from Wikidata alone, add a reviewed, CITED entry to manual-overrides.json (birthplaceDistrict). Every seed must be a genuine singer born in Tamil Nadu, confirmed against a real source. Never add a singer born outside Tamil Nadu — rule 2 groups by birthplace district.",
+  "seeds": [
+    {
+      "wikidataId": "Q18358401",
+      "name": "Sid Sriram",
+      "reason": "Playback singer born in Chennai; Wikidata lists occupation as songwriter/musician (not singer), so the occupation-filtered harvest skips him. Birthplace (P19 = Chennai) resolves normally once included.",
+      "source": "https://en.wikipedia.org/wiki/Sid_Sriram"
+    },
+    {
+      "wikidataId": "Q7530471",
+      "name": "Sirkazhi Govindarajan",
+      "reason": "Carnatic vocalist and Tamil-cinema playback singer born in Sirkazhi; Wikidata occupation is actor/recording artist (not singer), so the harvest skips him. Birthplace (P19 = Sirkazhi) resolves via admin hierarchy to Nagapattinam/Mayiladuthurai.",
+      "source": "https://en.wikipedia.org/wiki/Sirkazhi_Govindarajan"
+    },
+    {
+      "wikidataId": "Q3522846",
+      "name": "Saindhavi",
+      "reason": "Carnatic vocalist and playback singer; Wikidata has occupation singer but no place of birth (P19), so the birthplace filter excludes her. District supplied via cited manual override (Chennai).",
+      "source": "https://en.wikipedia.org/wiki/Saindhavi"
+    },
+    {
+      "wikidataId": "Q21004841",
+      "name": "Anthony Daasan",
+      "reason": "Tamil folk/playback singer; Wikidata has occupation singer but no place of birth (P19). District supplied via cited manual override (Ariyalur).",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Daasan"
+    },
+    {
+      "wikidataId": "Q7136246",
+      "name": "Paravai Muniyamma",
+      "reason": "Folk/playback singer (and actress); Wikidata occupation is actor and P19 is only the state (Tamil Nadu), so no district resolves. District supplied via cited manual override (Madurai — her birthplace Paravai is a town in Madurai district).",
+      "source": "https://en.wikipedia.org/wiki/Paravai_Muniyamma"
+    }
+  ]
+}

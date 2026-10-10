@@ -1,0 +1,400 @@
+[
+  {
+    "id": "ariyalur",
+    "name": "Ariyalur",
+    "artists": [
+      "Q21004841",
+      "Q16732186",
+      "Q21288352",
+      "Q6894168",
+      "Q16734853",
+      "Q7929269"
+    ],
+    "artistCount": 6
+  },
+  {
+    "id": "chengalpattu",
+    "name": "Chengalpattu",
+    "artists": [
+      "Q106819396",
+      "Q3521977"
+    ],
+    "artistCount": 2
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai",
+    "artists": [
+      "Q2051440",
+      "Q28911635",
+      "Q108560",
+      "Q4648309",
+      "Q113195586",
+      "Q642827",
+      "Q61995875",
+      "Q3523373",
+      "Q2048481",
+      "Q3525389",
+      "Q18049750",
+      "Q123411947",
+      "Q70163756",
+      "Q3536035",
+      "Q98828622",
+      "Q5006270",
+      "Q5203634",
+      "Q17517044",
+      "Q5269484",
+      "Q19571928",
+      "Q221289",
+      "Q123474008",
+      "Q5528725",
+      "Q43057735",
+      "Q5892320",
+      "Q3533050",
+      "Q312003",
+      "Q5675183",
+      "Q102291867",
+      "Q3533136",
+      "Q18637526",
+      "Q6349967",
+      "Q6373530",
+      "Q17403476",
+      "Q6437423",
+      "Q2050587",
+      "Q1396801",
+      "Q541607",
+      "Q6733481",
+      "Q18638042",
+      "Q2049827",
+      "Q7229058",
+      "Q56284000",
+      "Q9062928",
+      "Q17495917",
+      "Q14266529",
+      "Q69469761",
+      "Q2049183",
+      "Q18209881",
+      "Q7336736",
+      "Q19664497",
+      "Q3533144",
+      "Q3522846",
+      "Q19599562",
+      "Q7418484",
+      "Q17495897",
+      "Q331155",
+      "Q18358401",
+      "Q3124846",
+      "Q7513776",
+      "Q20784836",
+      "Q18720262",
+      "Q3532755",
+      "Q7640384",
+      "Q2051655",
+      "Q7668495",
+      "Q641384",
+      "Q19828908",
+      "Q4241855",
+      "Q7918085",
+      "Q22278322",
+      "Q2051905",
+      "Q17151291",
+      "Q235550",
+      "Q3524640",
+      "Q1387724"
+    ],
+    "artistCount": 76
+  },
+  {
+    "id": "coimbatore",
+    "name": "Coimbatore",
+    "artists": [
+      "Q6434821",
+      "Q123485039",
+      "Q59782245"
+    ],
+    "artistCount": 3
+  },
+  {
+    "id": "cuddalore",
+    "name": "Cuddalore",
+    "artists": [
+      "Q108813230",
+      "Q7919245"
+    ],
+    "artistCount": 2
+  },
+  {
+    "id": "dharmapuri",
+    "name": "Dharmapuri",
+    "artists": [
+      "Q32543205"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "dindigul",
+    "name": "Dindigul",
+    "artists": [
+      "Q139588529"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "erode",
+    "name": "Erode",
+    "artists": [
+      "Q12977524",
+      "Q7280201"
+    ],
+    "artistCount": 2
+  },
+  {
+    "id": "kallakurichi",
+    "name": "Kallakurichi",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "kancheepuram",
+    "name": "Kancheepuram",
+    "artists": [
+      "Q37320648",
+      "Q464887",
+      "Q12980338"
+    ],
+    "artistCount": 3
+  },
+  {
+    "id": "kanniyakumari",
+    "name": "Kanniyakumari",
+    "artists": [
+      "Q16091592",
+      "Q12975497",
+      "Q7929087"
+    ],
+    "artistCount": 3
+  },
+  {
+    "id": "karur",
+    "name": "Karur",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "krishnagiri",
+    "name": "Krishnagiri",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "madurai",
+    "name": "Madurai",
+    "artists": [
+      "Q17001162",
+      "Q465067",
+      "Q6728813",
+      "Q7136246",
+      "Q1752094",
+      "Q7484728"
+    ],
+    "artistCount": 6
+  },
+  {
+    "id": "mayiladuthurai",
+    "name": "Mayiladuthurai",
+    "artists": [
+      "Q6712783",
+      "Q5845135",
+      "Q7632912",
+      "Q4242886"
+    ],
+    "artistCount": 4
+  },
+  {
+    "id": "nagapattinam",
+    "name": "Nagapattinam",
+    "artists": [
+      "Q3534673",
+      "Q108906664",
+      "Q7117510",
+      "Q7530471",
+      "Q7668541"
+    ],
+    "artistCount": 5
+  },
+  {
+    "id": "namakkal",
+    "name": "Namakkal",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "the-nilgiris",
+    "name": "The Nilgiris",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "perambalur",
+    "name": "Perambalur",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "pudukkottai",
+    "name": "Pudukkottai",
+    "artists": [
+      "Q55579540"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "ramanathapuram",
+    "name": "Ramanathapuram",
+    "artists": [
+      "Q381477"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "ranipet",
+    "name": "Ranipet",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "salem",
+    "name": "Salem",
+    "artists": [
+      "Q31367757"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "sivagangai",
+    "name": "Sivagangai",
+    "artists": [
+      "Q3531959"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "tenkasi",
+    "name": "Tenkasi",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "thanjavur",
+    "name": "Thanjavur",
+    "artists": [
+      "Q72736956",
+      "Q4526771",
+      "Q117881",
+      "Q7402910",
+      "Q3525273",
+      "Q6126886",
+      "Q2044389"
+    ],
+    "artistCount": 7
+  },
+  {
+    "id": "theni",
+    "name": "Theni",
+    "artists": [
+      "Q2720141",
+      "Q110916838"
+    ],
+    "artistCount": 2
+  },
+  {
+    "id": "thiruvallur",
+    "name": "Thiruvallur",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "thiruvarur",
+    "name": "Thiruvarur",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "thoothukudi",
+    "name": "Thoothukudi",
+    "artists": [
+      "Q3536023",
+      "Q137939894",
+      "Q312783"
+    ],
+    "artistCount": 3
+  },
+  {
+    "id": "tiruchirappalli",
+    "name": "Tiruchirappalli",
+    "artists": [
+      "Q42417425",
+      "Q105700710",
+      "Q6437324",
+      "Q48720240",
+      "Q7668466",
+      "Q2051183"
+    ],
+    "artistCount": 6
+  },
+  {
+    "id": "tirunelveli",
+    "name": "Tirunelveli",
+    "artists": [
+      "Q6728822",
+      "Q15995659",
+      "Q7387483",
+      "Q137157153",
+      "Q7586443",
+      "Q97231618"
+    ],
+    "artistCount": 6
+  },
+  {
+    "id": "tirupathur",
+    "name": "Tirupathur",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "tiruppur",
+    "name": "Tiruppur",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "tiruvannamalai",
+    "name": "Tiruvannamalai",
+    "artists": [],
+    "artistCount": 0
+  },
+  {
+    "id": "vellore",
+    "name": "Vellore",
+    "artists": [
+      "Q2051336"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "viluppuram",
+    "name": "Viluppuram",
+    "artists": [
+      "Q132034002"
+    ],
+    "artistCount": 1
+  },
+  {
+    "id": "virudhunagar",
+    "name": "Virudhunagar",
+    "artists": [
+      "Q19547897"
+    ],
+    "artistCount": 1
+  }
+]

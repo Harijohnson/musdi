@@ -11,6 +11,9 @@
 # testing
 /coverage
 
+# data pipeline cache (raw Wikimedia / GeoJSON downloads)
+/.cache
+
 # next.js
 /.next/
 /out/

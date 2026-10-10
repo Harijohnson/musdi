@@ -1,0 +1,38 @@
+{
+  "_comment": "Manual, reviewed corrections keyed by Wikidata QID. Every entry MUST include a human reason, a source URL, and reviewed:true. Used by resolve-districts (birthplaceDistrict) and to attach VERIFIED native place (nativePlace/nativeDistrict). Never add unexplained overrides; never fabricate native place.",
+  "_example": {
+    "Q123456": {
+      "birthplaceDistrict": "Madurai",
+      "reason": "Wikidata only specifies Tamil Nadu; district verified from the Wikipedia biography lead.",
+      "source": "https://en.wikipedia.org/wiki/Example",
+      "reviewed": true
+    },
+    "Q234567": {
+      "nativePlace": "Woraiyur",
+      "nativeDistrict": "Tiruchirappalli",
+      "reason": "Native place explicitly stated in cited biography.",
+      "source": "https://en.wikipedia.org/wiki/Example_Two",
+      "reviewed": true
+    }
+  },
+  "overrides": {
+    "Q3522846": {
+      "birthplaceDistrict": "Chennai",
+      "reason": "Wikidata has no place of birth (P19). The Wikipedia biography infobox gives birthplace as Chennai, Tamil Nadu.",
+      "source": "https://en.wikipedia.org/wiki/Saindhavi",
+      "reviewed": true
+    },
+    "Q21004841": {
+      "birthplaceDistrict": "Ariyalur",
+      "reason": "Wikidata has no place of birth (P19). The Wikipedia biography infobox gives birthplace as Reddipalayam, Tamil Nadu; the linked Reddipalayam article states it is a village in Ariyalur district.",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Daasan",
+      "reviewed": true
+    },
+    "Q7136246": {
+      "birthplaceDistrict": "Madurai",
+      "reason": "Wikidata place of birth (P19) is only the state (Tamil Nadu). The Wikipedia biography infobox gives birthplace as Paravai; the linked Paravai article states it is a panchayat town in Madurai district.",
+      "source": "https://en.wikipedia.org/wiki/Paravai_Muniyamma",
+      "reviewed": true
+    }
+  }
+}
