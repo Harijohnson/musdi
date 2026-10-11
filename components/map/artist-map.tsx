@@ -240,7 +240,10 @@ export function ArtistMap() {
         open={sheetOpen}
         onOpenChange={(open) => {
           setSheetOpen(open)
-          if (!open) setHighlightArtistId(null)
+          if (!open) {
+            setHighlightArtistId(null)
+            setSelected(null)
+          }
         }}
         highlightArtistId={highlightArtistId}
       />
